@@ -176,10 +176,10 @@ const main = async() => {
     //await productos.deleteAll();
     //console.log ('objetos eliminados')
 
-    // Eliminar objeto por ID:
+    //Eliminar objeto por ID:
 
-    //await productos.deleteById(1)
-    //console.log ('Eliminado objeto')
+    await productos.deleteById(1)
+    console.log ('Eliminado objeto')
 
 }
 
