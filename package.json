@@ -1,0 +1,14 @@
+{
+  "name": "3erdesafio",
+  "version": "1.0.0",
+  "description": "3er Desafio Backend",
+  "main": "contenedor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
